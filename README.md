@@ -2,7 +2,7 @@
 
 ## 效果演示
 
-![光线追踪演示](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Ray%20tracing%20scene%20with%20red%20diffuse%20sphere%2C%20silver%20mirror%20sphere%2C%20checkerboard%20floor%2C%20hard%20shadows&image_size=square)
+![光线追踪演示](aaa.gif)
 
 ## 项目架构
 
